@@ -39,3 +39,9 @@ font-size: 20px;
   background-color: white;
   padding: 1em;
 }
+#footer{
+  color: white;
+  background-color: #777;
+  text-align: center;
+  padding: 0.5em;
+}
